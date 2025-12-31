@@ -1,8 +1,8 @@
 ## Description
 # What this programm does:
 
--Calculates production for each month.
--Checks if current stock is enough.
+###-Calculates production for each month.
+###-Checks if current stock is enough.
 
 The program prompts the user for: 
 1. An initial stock level.
