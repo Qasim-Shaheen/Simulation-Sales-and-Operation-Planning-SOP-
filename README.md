@@ -10,9 +10,12 @@ In this exercise i simulated a sales and operations planning using the zero stoc
 
 -The planned sales quantity for each month
 
+
 Based on this data, calculate the required production quantity as follows:
 
+
 -If the sales quantity is smaller than the stock level of the previous month, the production quantity is 0
+
 -If the sales quantity is larger than the stock level of the previous month, the production quantity is this difference
 
 Below is an example execution of the program:
